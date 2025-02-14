@@ -36,7 +36,6 @@ V1-0.0, Basic Inventory features
 
 
 
- ...
 
 
 
@@ -49,4 +48,18 @@ V1-0.0, Basic Inventory features
 
 
 ![License](https://img.shields.io/badge/License-MIT-2196F3?style=flat&logo=open-source-initiative&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MIT License, You may modify and use this code as long as you use CREDIT

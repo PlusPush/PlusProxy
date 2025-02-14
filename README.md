@@ -2,6 +2,21 @@
 An roblox proxy/api.
 
 
+
+
+
+
+
+![Banner](https://github.com/PlusPush/PlusProxy/blob/main/PlusProxy%20Template.png)
+
+
+
+
+
+
+
+
+
 ![Problem](https://img.shields.io/badge/Problem-Issue-F57C00?style=flat&logo=materialdesignicons&logoColor=white)
 
 None that i know of.. you can report a bug i guess...
@@ -77,9 +92,4 @@ MIT License, You may modify and use this code as long as you use CREDIT
 
 
 
-
-
-
-
-![Banner](https://github.com/PlusPush/PlusProxy/blob/main/PlusProxy%20Template.png)
 

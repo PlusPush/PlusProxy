@@ -4,8 +4,7 @@ An roblox proxy/api.
 
 ![Problem](https://img.shields.io/badge/Problem-Issue-F57C00?style=flat&logo=materialdesignicons&logoColor=white)
 
-
-
+None that i know of.. you can report a bug i guess...
 
 
 
@@ -21,7 +20,7 @@ An roblox proxy/api.
 
 
 
-
+V1-0.0, Basic Inventory features
 
 
 
@@ -34,3 +33,4 @@ An roblox proxy/api.
 
 
 ![License](https://img.shields.io/badge/License-MIT-2196F3?style=flat&logo=open-source-initiative&logoColor=white)
+MIT License, You may modify and use this code as long as you use CREDIT

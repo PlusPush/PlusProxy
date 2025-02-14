@@ -78,7 +78,7 @@ MIT License, You may modify and use this code as long as you use CREDIT
 
 
 
-![Banner](https://www.canva.com/design/DAGfHvk9haE/QGqG0hr88Z5wgknWO4D7Ow)
+
 
 
 
